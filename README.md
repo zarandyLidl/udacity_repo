@@ -6,3 +6,5 @@ git status
 hit clone
 git commit
 git push
+git branch
+git checkout main
